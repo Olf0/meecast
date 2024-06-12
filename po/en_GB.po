@@ -2842,17 +2842,19 @@ msgstr ""
 
 #: meecast/qt-qml/qml/AboutPage.qml:321
 msgid ""
-" This software is free software; you can\n"
-" redistribute it and/or modify it under\n"
-" the terms of the GNU Lesser General Public\n"
-" License version 2.1 as published by the\n"
-" Free Software Foundation."
+"This software is free software; you can\n"
+" redistribute it and/or modify it under \n"
+" the terms of the GNU General Public\n"
+" License as published by the Free Software \n"
+" Foundation; either version 2.1 of the \n"
+" License, or (at your option) any \n"
+" later version."
 msgstr ""
 
 #: meecast/netbook-UX/meego-panel-omweather.cpp:438
 msgid ""
 "This software is free software; you can redistribute it and/or modify it "
-"under the terms of the GNU Lesser General Public License version 2.1\n"
+"under the terms of the GNU General Public License\n"
 msgstr ""
 
 #: omweather/src/hash.data:352

@@ -10,7 +10,7 @@ Summary:    Stations database and source lib for weather.com for Other Maemo Wea
 Version:    1.0.1
 Release:    1
 Group:      Applications/Internet
-License:    LGPL-2.1-only
+License:    GPLv2.1
 URL:        https://garage.maemo.org/projects/omweather/
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  omweather-weather-com-stations-db.yaml
